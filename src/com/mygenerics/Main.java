@@ -1,5 +1,5 @@
 /**
- *  Java program to create own class with wild card super.
+ *  Java program to use wild card super with List.
  */
 
 package com.mygenerics;
