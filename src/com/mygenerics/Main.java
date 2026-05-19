@@ -35,7 +35,7 @@ public class Main {
         list.add(new A());
         list.add(new B());
 
-        // Calling method wildCardDemo() for two lists.
+        // Calling method wildCardDemo() list with types of storing data A and B.
         wildCardDemo(list);
 
     }
